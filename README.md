@@ -1,6 +1,8 @@
-#MEDbot (Hand Gestured robot)
 
-### Technical Project Developer
+
+
+#MEDbot (Hand Gestured robot)
+### Technical Project Developer 
 
 **Key Achievements & Responsibilities:**
 - Engineered and implemented robust C++ solutions focusing on software development best practices
